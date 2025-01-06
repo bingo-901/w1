@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightcoral;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#loading {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background-color: lightcoral;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
